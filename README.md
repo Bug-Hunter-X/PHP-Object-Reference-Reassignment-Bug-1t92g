@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle bug in PHP related to object references and how modifications within functions might not affect the original object as intended.  The `bug.php` file showcases the problematic code, while `bugSolution.php` offers a corrected version.  This is a crucial concept to understand when working with objects and references in PHP.
